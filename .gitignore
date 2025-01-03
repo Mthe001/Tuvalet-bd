@@ -8,6 +8,20 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local   
+.env.local.json
+.env.development.local.json
+.env.test.local.json
+.env.production.local.json
+.env.local.js
+.env.development.local.js
+.env.test.local.js
+.env.production.local.js
+
 dist
 dist-ssr
 *.local
